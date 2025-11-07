@@ -84,7 +84,8 @@ Promover educação e conscientização sobre a realidade dos moradores de rua, 
 ## 📷 7. Material Visual do Projeto
 
 O repositório contém:
-- Slides utilizados na **apresentação do projeto**;  
+- Slides utilizados na **apresentação do projeto**;
+- Folder informativo (frente e verso), desenvolvido para conscientização e divulgação do tema junto à comunidade;
 - Imagens do conteúdo visual compartilhado no **Instagram**;  
 - Fotos da **realização e apresentação** do projeto;  
 - Vídeo da **apresentação final** (arquivo disponível no repositório).  
@@ -123,3 +124,4 @@ O projeto *Vidas Invisíveis – O Bom Samaritano* reforça o papel da igreja e 
 Mais do que uma ação pontual, representa um chamado à empatia, à solidariedade e ao compromisso com o próximo, fortalecendo a conexão entre fé, cidadania e sustentabilidade.
 
 ---
+
